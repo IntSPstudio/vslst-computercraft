@@ -1,4 +1,4 @@
 #Com computercraft codes
 
-VSLstAa: DoorLaser <br>
+VSLstAa: DoorLaser (For mining turtle) <br>
 Make 1,2,X path (Width,Height,Depth)
