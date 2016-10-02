@@ -1,2 +1,1 @@
-# vslst-computercraft
-Common minecraft computercraft codes
+#Com minecraft computercraft codes
