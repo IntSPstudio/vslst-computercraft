@@ -14,4 +14,4 @@ Make 1,2,X path (Width,Height,Depth)
 How full is your turtle's inventory (returns 0-100%)
 
 ###VSLstAd: (For mining turtle)
-Make underground X, 3, X cube (Width,Height,Depth)
+Make X, 3, X hiding cube (Width,Height,Depth)
