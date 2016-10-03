@@ -3,6 +3,8 @@ Project: Tree Vaporizer
 Thank you for using this script!
 ]]--
 
+turtle.dig()
+turtle.forward()
 local check = turtle.detectUp()
 while check == true do
 	turtle.digUp()
