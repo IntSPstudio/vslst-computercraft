@@ -10,5 +10,5 @@ Make 1,2,X path (Width,Height,Depth)
 ###VSLstAb: Tree Vaporizer (For felling, digging turtle) <br>
 1,X,1 tree cutter (Width,Height,Depth)
 
-###VSLstAc: 
+###VSLstAc: (For all turtles)
 How full is your turtle's inventory (returns 0-100%)
