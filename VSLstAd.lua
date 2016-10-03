@@ -79,7 +79,7 @@ if check > 2 then
 		end
 	end
 	-- READY
-	print("DONE")
+	print("Done")
 else
 	print("Nope")
 end
