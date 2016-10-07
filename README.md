@@ -15,3 +15,6 @@ How full is your turtle's inventory (returns 0-100%)
 
 ###VSLstAd: (For mining turtle)
 Make X, 3, X hiding cube (Width,Height,Depth)
+
+###VSLstAe: (For mining, felling, digging turtle)
+Tower building script
